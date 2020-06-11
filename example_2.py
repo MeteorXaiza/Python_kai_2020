@@ -1,7 +1,7 @@
 # coding:utf-8
 
 
-from xaizalibs.CMOSanalyzerlib import *
+from xaizalibs.nplib import *
 
 # example_frame.fitsを読み込む
 example_frame = getArrFloatCsv('example_frame.csv')

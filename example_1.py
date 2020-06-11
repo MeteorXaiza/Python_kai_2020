@@ -1,7 +1,7 @@
 # coding:utf-8
 
 
-from xaizalibs.CMOSanalyzerlib import *
+from xaizalibs.nplib import *
 
 
 # getArrFloatCsv
